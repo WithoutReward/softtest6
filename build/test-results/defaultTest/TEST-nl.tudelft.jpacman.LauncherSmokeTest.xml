@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.LauncherSmokeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-25T09:35:58" hostname="LAPTOP-1IK9F399" time="1.132">
+  <properties/>
+  <testcase name="smokeTest()" classname="nl.tudelft.jpacman.LauncherSmokeTest" time="1.132"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
